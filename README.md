@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igmani
 - 👀 I translate wireframes and designs into working codes
-- 🌱 Currently Skills are HTML5, CSS, Bootstrap, Semantic UI, ReactJS, WebServices Api, HTTPRequests, npm, Webpack, Babel
+- 🌱 Current Skillsets are HTML5, CSS, Bootstrap, Semantic UI, ReactJS, WebServices Api, HTTPRequests, npm, Webpack, Babel
 - 📫 Pursuing my 4th year in B.E.CSE
 
 
